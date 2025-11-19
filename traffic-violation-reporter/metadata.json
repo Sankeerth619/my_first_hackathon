@@ -1,0 +1,8 @@
+{
+  "name": "Traffic Violation Reporter",
+  "description": "An application for citizens to report traffic violations by uploading images. The app uses AI to analyze the evidence, tags it with a location, and includes a gamified rewards system for users.",
+  "requestFramePermissions": [
+    "geolocation",
+    "camera"
+  ]
+}
